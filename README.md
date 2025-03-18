@@ -12,7 +12,7 @@
 ## Capturas de pantalla 📸
 
 ### 1. Interfaz principal
-![Interfaz principal](screenshots/main-interface.png)
+![Interfaz principal]https://github.com/zr19012-prn335-cicloII-2022/Challege-Amigo-Secreto-AuraLatam-G8/blob/420e345e515649660576599478cb9434d7abcde8/challenge-amigo-secreto_esp-main/screenshoots/main-inteface.png
 _Descripción: Captura de la página principal donde se muestra el campo para agregar amigos y el botón para sortear._
 
 ### 2. Lista de amigos agregados
