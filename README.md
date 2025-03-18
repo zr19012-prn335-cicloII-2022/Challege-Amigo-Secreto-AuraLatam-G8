@@ -16,11 +16,11 @@
 _Descripción: Captura de la página principal donde se muestra el campo para agregar amigos y el botón para sortear._
 
 ### 2. Lista de amigos agregados
-![Lista de amigos](screenshots/friends-list.png)
+![Lista de amigos](https://github.com/zr19012-prn335-cicloII-2022/Challege-Amigo-Secreto-AuraLatam-G8/blob/b795bc219c23f31089bca55d2fdbc9812028d0c8/challenge-amigo-secreto_esp-main/screenshoots/friend.list.png)
 _Descripción: Captura que muestra la lista de amigos agregados._
 
 ### 3. Resultado del sorteo
-![Resultado del sorteo](screenshots/draw-result.png)
+![Resultado del sorteo](https://github.com/zr19012-prn335-cicloII-2022/Challege-Amigo-Secreto-AuraLatam-G8/blob/b795bc219c23f31089bca55d2fdbc9812028d0c8/challenge-amigo-secreto_esp-main/screenshoots/draw-result.png)
 _Descripción: Captura que muestra el resultado del sorteo con el nombre del amigo seleccionado._
 
 ## Cómo usar 🚀
